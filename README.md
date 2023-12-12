@@ -5,4 +5,4 @@ Projeto basico feito em python, onde implemento a biblioteca pytube para baixar 
 - Instale a biblioteca Pytube com o comando no terminal: pipp install pytube
 - Clone o repositorio no seu compuatdor
 - Rode o programa em uma IDE de sua preferencia
-
+- O programa vai pedir o link do video do Youtube, cole e está feito!
